@@ -5,7 +5,7 @@
 - 🌱 Ready to Code 🚀
 
 - 🤔 Web Development *React, Node, MongoDB, MySQL*
-- Flutter Development *Flutter*
+- 🤔 Android Development *Flutter*
 <br>
 
 ## Languages and Tools:
