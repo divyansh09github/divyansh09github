@@ -29,9 +29,8 @@
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
 
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-![download](https://github.com/divyansh09github/divyansh09github/assets/89567551/721f837c-899f-4358-8e8f-8cd3804395fa)
 
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+<img align="left" alt="Flutter" width="26px" src="https://github.com/divyansh09github/divyansh09github/assets/89567551/3a0e8c48-910a-45cb-8558-b03da94a5add">
 
 <br><br>
 <!--
